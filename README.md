@@ -17,12 +17,12 @@ Inspired by [MattKC](https://github.com/itsmattkc) - [isledecomp](https://github
 
 
 ## Info
-Compiler: Compiler: Microsoft Visual C/C++(16.00.40219) C++ <br \>
+Compiler: Compiler: Microsoft Visual C/C++(16.00.40219) C++ <br />
 Linker: [MSVC600](https://github.com/itsmattkc/MSVC600) (I upgraded mine to Service Pack 6)
 
 ## Build 
-Edit ``CMAKE_LINKER`` in CMakeLists.txt to point to your installation of MSVC.<br \>
-Build using CMake and NMake.<br \>
+Edit ``CMAKE_LINKER`` in CMakeLists.txt to point to your installation of MSVC. <br />
+Build using CMake and NMake. <br />
 
 This project is for educational purposes.
 
