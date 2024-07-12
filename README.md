@@ -5,9 +5,15 @@ I am bored and and feel like working on a never ending impossible project.
 Inspired by [MattKC](https://github.com/itsmattkc) - [isledecomp](https://github.com/isledecomp/isle).
 
 ## Progress
-``rumblefighter.exe - Functions 0.6%, Similarity 0.00``<br />
-``RumbleLauncher.exe    - Functions 4.3%, Similarity 0.03``<br />
-``Home.exe -        Functions 97.4%, Similarity 0.99``<br />
+> **rumblefighter.exe**
+> Functions 0.6%, Similarity 0.00
+
+> **RumbleLauncher.exe**
+> Functions 4.3%, Similarity 0.03
+
+> **Home.exe**
+> Functions 97.4%, Similarity 0.99
+
 
 
 ## Info
